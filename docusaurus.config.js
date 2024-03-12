@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Modulo - Tienda virtual',
   tagline: 'Guia de Errores | Empresa Buho',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/tiendaiconoblanco.png',
 
   // Set the production url of your site here
   url: 'https://Docusaurus-Buho',
@@ -69,7 +69,7 @@ const config = {
         title: 'Modulo - Tienda virtual',
         logo: {
           alt: 'Logo',
-          src: 'img/logo.svg',
+          src: 'img/tiendaicono.png',
         },
         items: [
           {
