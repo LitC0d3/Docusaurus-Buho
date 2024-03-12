@@ -93,7 +93,7 @@ const config = {
             title: 'Documentacion',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentacion',
                 to: '/docs/intro',
               },
             ],
@@ -116,20 +116,16 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Desarrolladores',
             items: [
               {
-                label: 'Blog',
+                label: 'Colaboradores del Proyecto',
                 to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Modulo - Tienda virtual, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
