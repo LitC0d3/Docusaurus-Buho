@@ -125,7 +125,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Modulo - Tienda virtual, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Modulo - Tienda virtual `,
       },
       prism: {
         theme: prismThemes.github,
