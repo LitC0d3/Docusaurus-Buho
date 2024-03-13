@@ -125,7 +125,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Modulo - Tienda virtual `,
+        copyright: `Copyright © ${new Date().getFullYear()} Modulo - Tienda virtual Buho  `,
       },
       prism: {
         theme: prismThemes.github,
