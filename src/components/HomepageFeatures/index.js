@@ -4,41 +4,42 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Colaboracion con GitHub',
+    Image: require('@site/static/img/github-icon.png').default,
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
+      <>Se trabajo con GitHub con la colaboracion de los desarrolladores usando git.</>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Creado con Docusaurus',
+    Image: require('@site/static/img/docusaurus.png').default,
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+      <>La documentacion fue creada gracias al FrameWork llamado Docusaurus.</>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Trabajado con Visual Studio Code',
+    Image: require('@site/static/img/visual-icon.png').default,
     description: (
-      <>
-        prueba de github wuru.
-      </>
+      <>Se trabajo con el editor de codigo Visual Studio Code por preferencias.</>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+import React from 'react';
+import { useColorMode } from '@docusaurus/theme-common';
+
+function Feature({ Image, title, description }) {
+  const { colorMode } = useColorMode();
+
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img 
+          src={Image} 
+          className={clsx(styles.featureSvg, colorMode === 'dark' && title === 'Colaboracion con GitHub' && styles.githubLogo)} 
+          alt={title} 
+        />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
@@ -47,6 +48,8 @@ function Feature({Svg, title, description}) {
     </div>
   );
 }
+
+
 
 export default function HomepageFeatures() {
   return (
