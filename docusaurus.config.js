@@ -134,7 +134,9 @@ const config = {
     }),
 };
 
+/*probando - BHN 14/03/24*/
 
-
+const markdownIt = require('markdown-it');
+const implicitFigures = require('markdown-it-implicit-figures');
 
 export default config;
