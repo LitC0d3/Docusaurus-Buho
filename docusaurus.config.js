@@ -104,15 +104,7 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/LitC0d3/Docusaurus-Buho',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+              }
             ],
           },
           {
