@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'LitC0d3', // Usually your GitHub org/user name.
-  projectName: 'gh-pages', // Usually your repo name.
+  organizationName: 'gh-pages', // Usually your GitHub org/user name.
+  projectName: 'LitC0d3', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
