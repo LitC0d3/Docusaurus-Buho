@@ -28,7 +28,3 @@ Analizar modulo **Tienda Virtual** Frontend (Diseño, interacción, flujo, UX, U
 Creamos un Repositorio en **GitHub** con **Docusaurus** donde en este repositorio estaremos subiendo la **Documentacion** sobre la **Tienda Virtual**:
 
 ![Repositorio](/img/githubdocu.jpeg)
-
-## Nuesta Documentacion Hosteada con GitHub Pages
-
-
