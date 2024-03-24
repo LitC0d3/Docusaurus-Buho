@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuho=self.webpackChunkbuho||[]).push([[155],{6265:a=>{a.exports=JSON.parse('{"label":"Colaboradores","permalink":"/blog/tags/colaboradores","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
