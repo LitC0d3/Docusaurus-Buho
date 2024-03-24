@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbuho=self.webpackChunkbuho||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Colaboradores","permalink":"/blog/Colaboradores","unlisted":false}]}')}}]);
