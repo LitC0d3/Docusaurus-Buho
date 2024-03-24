@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbuho=self.webpackChunkbuho||[]).push([[726],{5643:o=>{o.exports=JSON.parse('[{"label":"Colaboradores","permalink":"/Docusaurus-Buho/blog/tags/colaboradores","count":1}]')}}]);

@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Modulo - Tienda virtual Blog</title>
-        <link>https://Docusaurus-Buho/BUHO/blog</link>
+        <link>https://Docusaurus-Buho/Docusaurus-Buho/blog</link>
         <description>Modulo - Tienda virtual Blog</description>
         <lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Colaboradores]]></title>
-            <link>https://Docusaurus-Buho/BUHO/blog/Colaboradores</link>
-            <guid>https://Docusaurus-Buho/BUHO/blog/Colaboradores</guid>
+            <link>https://Docusaurus-Buho/Docusaurus-Buho/blog/Colaboradores</link>
+            <guid>https://Docusaurus-Buho/Docusaurus-Buho/blog/Colaboradores</guid>
             <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
             <category>Colaboradores</category>
         </item>
