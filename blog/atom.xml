@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Docusaurus-Buho/Buho/blog</id>
+    <title>Modulo - Tienda virtual Blog</title>
+    <updated>2024-03-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Docusaurus-Buho/Buho/blog"/>
+    <subtitle>Modulo - Tienda virtual Blog</subtitle>
+    <icon>https://Docusaurus-Buho/Buho/img/tiendaiconoblanco.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Colaboradores]]></title>
+        <id>https://Docusaurus-Buho/Buho/blog/Colaboradores</id>
+        <link href="https://Docusaurus-Buho/Buho/blog/Colaboradores"/>
+        <updated>2024-03-01T00:00:00.000Z</updated>
+        <author>
+            <name>Aldair Villegas</name>
+            <uri>https://github.com/LitC0d3</uri>
+        </author>
+        <author>
+            <name>Joseph Torres Pashanasi</name>
+            <uri>https://github.com/josephstevetorres</uri>
+        </author>
+        <author>
+            <name>Jheidy Rimachi Manotupa</name>
+            <uri>https://github.com/wurupio</uri>
+        </author>
+        <author>
+            <name>Brandon Huerta Neyra</name>
+            <uri>https://github.com/IDemonSan</uri>
+        </author>
+        <author>
+            <name>Jordan Bendezu Salvador</name>
+            <uri>https://github.com/Jordanmarco22</uri>
+        </author>
+        <category label="Colaboradores" term="Colaboradores"/>
+    </entry>
+</feed>
